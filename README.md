@@ -1,3 +1,3 @@
 # Shiva-1
 This is my first  GitHub repository.<br>
-Author-Shivanand Mugalolli
+Author-Shivanand Bhimapp Mugalolli
